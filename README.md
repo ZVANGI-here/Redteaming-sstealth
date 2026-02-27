@@ -1,3 +1,5 @@
+*** CHECK RESOURCES.MD ***
+
 
 <div class="logo">👻 GHOST MODE 2026 👻</div>
 
