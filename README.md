@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body { font-family: 'Segoe UI', Arial, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; line-height: 1.6; background: #f5f5f5; }
-.container { background: white; box-shadow: 0 0 20px rgba(0,0,0,0.1); border-radius: 10px; padding: 30px; }
-h1 { color: #00C864; text-align: center; font-size: 3em; margin-bottom: 10px; }
-.subtitle { text-align: center; font-size: 1.3em; color: #666; margin-bottom: 30px; }
-h2 { color: #369DFF; font-size: 2em; border-left: 5px solid #00C864; padding-left: 15px; margin: 40px 0 20px 0; }
-h3 { color: #00C864; font-size: 1.4em; }
-.ghostbox { background: linear-gradient(135deg, #282C34 0%, #1e2127 100%); color: white; padding: 25px; border-left: 6px solid #00C864; margin: 25px 0; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,200,100,0.2); }
-.codebox { background: #1e1e1e; color: #00ff88; padding: 20px; border-radius: 8px; font-family: 'Fira Code', 'Courier New', monospace; font-size: 0.9em; overflow-x: auto; border-left: 4px solid #00C864; margin: 15px 0; }
-.table-ghost { width: 100%; border-collapse: collapse; margin: 25px 0; font-size: 0.95em; }
-.table-ghost th { background: linear-gradient(90deg, #00C864, #369DFF); color: white; padding: 15px; text-align: left; font-weight: bold; }
-.table-ghost td { border-bottom: 1px solid #ddd; padding: 12px; }
-.table-ghost tr:nth-child(even) { background: #f8f9fa; }
-.stepnum { background: #00C864; color: white; padding: 8px 15px; border-radius: 20px; font-weight: bold; font-size: 1.1em; display: inline-block; margin-right: 10px; }
-.warning { background: linear-gradient(135deg, #FF6B6B, #FF8E8E); color: white; padding: 20px; border-radius: 10px; text-align: center; font-weight: bold; margin: 30px 0; box-shadow: 0 5px 15px rgba(255,107,107,0.3); }
-.logo { text-align: center; font-size: 4em; color: #369DFF; margin: 30px 0; text-shadow: 0 0 20px rgba(54,157,255,0.5); }
-.download { background: #00C864; color: white; padding: 15px 30px; border-radius: 50px; text-decoration: none; font-weight: bold; display: inline-block; margin: 20px; box-shadow: 0 5px 15px rgba(0,200,100,0.4); }
-a:hover { transform: translateY(-2px); }
-</style>
-</head>
-<body>
-<div class="container">
 
 <div class="logo">👻 GHOST MODE 2026 👻</div>
 
